@@ -4,7 +4,7 @@
   <title><![CDATA[天道酬勤]]></title>
   <link href="http://fencerfan.github.io/atom.xml" rel="self"/>
   <link href="http://fencerfan.github.io/"/>
-  <updated>2013-11-13T17:00:35+08:00</updated>
+  <updated>2013-11-13T17:04:52+08:00</updated>
   <id>http://fencerfan.github.io/</id>
   <author>
     <name><![CDATA[Fencer Fan]]></name>
@@ -18,9 +18,7 @@
     <link href="http://fencerfan.github.io/blog/2013/11/13/jing-tai-dai-ma-fen-xi-gong-ju/"/>
     <updated>2013-11-13T15:40:00+08:00</updated>
     <id>http://fencerfan.github.io/blog/2013/11/13/jing-tai-dai-ma-fen-xi-gong-ju</id>
-    <content type="html"><![CDATA[<h1>静态代码分析工具</h1>
-
-<h2>C</h2>
+    <content type="html"><![CDATA[<h2>C</h2>
 
 <h3>Splint</h3>
 
@@ -31,9 +29,9 @@
 <ul>
 <li><p>对代码进行检查</p>
 
-<p>&lsquo;<splint *.c>&rsquo;
+<p>splint <em>.c
 or
-&lsquo;<splint *.h>&rsquo;</p></li>
+splint </em>.h</p></li>
 </ul>
 
 
@@ -46,11 +44,11 @@ or
 <p><a href="http://docs.pylint.org/">使用手册</a></p>
 
 <ul>
-<li>对代码进行检查</li>
+<li><p>对代码进行检查</p>
+
+<p>pylint Auto_DBackup_agent.py</p></li>
 </ul>
 
-
-<p> &lsquo;<pylint Auto_DBackup_agent.py>&rsquo;</p>
 
 <h2>JavaScript</h2>
 
