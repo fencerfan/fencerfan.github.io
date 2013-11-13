@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 测试工具 | 天道酬勤]]></title>
   <link href="http://fencerfan.github.io/blog/categories/ce-shi-gong-ju/atom.xml" rel="self"/>
   <link href="http://fencerfan.github.io/"/>
-  <updated>2013-11-13T16:43:02+08:00</updated>
+  <updated>2013-11-13T16:53:44+08:00</updated>
   <id>http://fencerfan.github.io/</id>
   <author>
     <name><![CDATA[Fencer Fan]]></name>
@@ -18,53 +18,53 @@
     <link href="http://fencerfan.github.io/blog/2013/11/13/jing-tai-dai-ma-fen-xi-gong-ju/"/>
     <updated>2013-11-13T15:40:00+08:00</updated>
     <id>http://fencerfan.github.io/blog/2013/11/13/jing-tai-dai-ma-fen-xi-gong-ju</id>
-    <content type="html"><![CDATA[<p>h1. 静态代码分析工具</p>
+    <content type="html"><![CDATA[<h1>静态代码分析工具</h1>
 
-<p>h2. C</p>
+<h2>C</h2>
 
-<p>h3. Splint</p>
+<h3>Splint</h3>
 
-<p>&ldquo;源码编译安装&rdquo;:<a href="http://splint.org/source.html">http://splint.org/source.html</a></p>
+<p><a href="http://splint.org/source.html">源码编译安装</a></p>
 
-<p>&ldquo;使用手册&rdquo;:<a href="http://www.splint.org/manual/manual.html">http://www.splint.org/manual/manual.html</a></p>
+<p><a href="http://www.splint.org/manual/manual.html">使用手册</a></p>
 
 <ul>
 <li><p>对代码进行检查</p>
 
-<p> splint <em>.c
+<p>&lsquo;&lt; splint <em>.c>&rsquo;
 or
- splint </em>.h</p></li>
+&lsquo;&lt; splint </em>.h>&rsquo;</p></li>
 </ul>
 
 
-<p>h2. Python</p>
+<h2>Python</h2>
 
-<p>h3. Pylint</p>
+<h3>Pylint</h3>
 
-<p>&ldquo;功能介绍&amp;安装&rdquo;:<a href="http://www.pylint.org/">http://www.pylint.org/</a></p>
+<p><a href="http://www.pylint.org/">功能介绍&amp;安装</a></p>
 
-<p>&ldquo;使用手册&rdquo;:<a href="http://docs.pylint.org/">http://docs.pylint.org/</a></p>
+<p><a href="http://docs.pylint.org/">使用手册</a></p>
 
 <ul>
-<li><p>对代码进行检查</p>
-
-<p>pylint Auto_DBackup_agent.py</p></li>
+<li>对代码进行检查</li>
 </ul>
 
 
-<p>h2. JavaScript</p>
+<p> &lsquo;&lt; pylint Auto_DBackup_agent.py>&rsquo;</p>
 
-<p>h3. JSlint</p>
+<h2>JavaScript</h2>
 
-<p>&ldquo;功能介绍&rdquo;:<a href="http://www.jslint.com/lint.html">http://www.jslint.com/lint.html</a>
-&ldquo;在线校验&rdquo;:<a href="http://www.jslint.com/">http://www.jslint.com/</a>
+<h3>JSlint</h3>
+
+<p><a href="http://www.jslint.com/lint.html">功能介绍</a>
+<a href="http://www.jslint.com/">在线校验</a>
 * Windows
-&ldquo;EditPlus中的JSLint&rdquo;:<a href="http://www.cnblogs.com/wave-lin/archive/2012/03/02/2370577.html">http://www.cnblogs.com/wave-lin/archive/2012/03/02/2370577.html</a>
-&ldquo;EditPlus.JSLint v0.1.zip&rdquo;:<a href="https://vfresh.googlecode.com/files/EditPlus.JSLint%20v0.1.zip">https://vfresh.googlecode.com/files/EditPlus.JSLint%20v0.1.zip</a></p>
+<a href="http://www.cnblogs.com/wave-lin/archive/2012/03/02/2370577.html">EditPlus中的JSLint</a>
+<a href="https://vfresh.googlecode.com/files/EditPlus.JSLint%20v0.1.zip">EditPlus.JSLint v0.1.zip</a></p>
 
 <ul>
 <li>Linux
-&ldquo;JSLint for Vim&rdquo;:<a href="http://ued.taobao.com/blog/2010/11/jslint-for-vim/">http://ued.taobao.com/blog/2010/11/jslint-for-vim/</a></li>
+<a href="http://ued.taobao.com/blog/2010/11/jslint-for-vim/">JSLint for Vim</a></li>
 </ul>
 
 ]]></content>
