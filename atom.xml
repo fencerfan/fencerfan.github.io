@@ -4,7 +4,7 @@
   <title><![CDATA[天道酬勤]]></title>
   <link href="http://fencerfan.github.io/atom.xml" rel="self"/>
   <link href="http://fencerfan.github.io/"/>
-  <updated>2013-11-13T16:53:44+08:00</updated>
+  <updated>2013-11-13T16:57:56+08:00</updated>
   <id>http://fencerfan.github.io/</id>
   <author>
     <name><![CDATA[Fencer Fan]]></name>
@@ -31,9 +31,9 @@
 <ul>
 <li><p>对代码进行检查</p>
 
-<p>&lsquo;&lt; splint <em>.c>&rsquo;
+<p>&lsquo;<splint *.c>&rsquo;
 or
-&lsquo;&lt; splint </em>.h>&rsquo;</p></li>
+&lsquo;<splint *.h>&rsquo;</p></li>
 </ul>
 
 
@@ -50,7 +50,7 @@ or
 </ul>
 
 
-<p> &lsquo;&lt; pylint Auto_DBackup_agent.py>&rsquo;</p>
+<p> &lsquo;<pylint Auto_DBackup_agent.py>&rsquo;</p>
 
 <h2>JavaScript</h2>
 
